@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "shoaib",
+      "age": 25,
+      "salary": 5000
+    },
+    {
+      "id": "2",
+      "name": "sam",
+      "age": 15,
+      "salary": 15000
+    },
+    {
+      "id": "3",
+      "name": "ali",
+      "age": 50,
+      "salary": 215000
+    },
+    {
+      "id": "4",
+      "name": "jhon",
+      "age": "20",
+      "salary": "30000"
+    }
+  ]
+}

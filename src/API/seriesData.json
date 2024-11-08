@@ -1,0 +1,61 @@
+[
+    {
+        "title":"Extraction",
+        "id" : 1,
+        "rating": "9.8",
+        "description": "Lorem ipsum dolor sit amet",
+        "cast": "Kim",
+        "genere": "Rom",
+        "imgURL": "http://localhost:3000/images/extraction.jpg",
+        "watchUrl": "https://www.netflix.com/tudum/extraction-2"     
+    },
+    {
+        "title":"Lift",
+        "id" : 2,
+        "rating": "7",
+        "description": "Lorem ipsum dolor sit amet",
+        "cast": "Joe",
+        "genere": "Rom",
+        "imgURL": "http://localhost:3000/images/lift.jpg",
+        "watchUrl": "https://www.netflix.com/tudum/lift"        
+    },
+    {
+        "title":"Damsel",
+        "id" : 3,
+        "rating": "8",
+        "description": "Lorem ipsum dolor sit amet",
+        "cast": "Tan",
+        "genere": "Som",
+        "imgURL": "http://localhost:3000/images/damsel.jpg",
+        "watchUrl": "https://www.netflix.com/tudum/damsel"          
+    },    {
+        "title":"Lost",
+        "id" : 4,
+        "rating": "8.5",
+        "description": "Lost in Space",
+        "cast": "Sam",
+        "genere": "Tom",
+        "imgURL": "http://localhost:3000/images/lost.jpg",
+        "watchUrl": "https://www.netflix.com/tudum/lost-in-space"     
+    },
+    {
+        "title":"Avatar",
+        "id" : 5,
+        "rating": "7",
+        "description": "Lorem ipsum dolor sit amet",
+        "cast": "Shoe",
+        "genere": "tom",
+        "imgURL": "http://localhost:3000/images/avatar.jpg",
+        "watchUrl": "https://www.netflix.com/tudum/avatar-the-last-airbender"        
+    },
+    {
+        "title":"LEO",
+        "id" : 6,
+        "rating": "6.5",
+        "description": "Lorem ipsum dolor sit amet",
+        "cast": "Leo",
+        "genere": "Gom",
+        "imgURL": "http://localhost:3000/images/leo.jpg",
+        "watchUrl": "https://www.netflix.com/tudum/leo"          
+    }
+]

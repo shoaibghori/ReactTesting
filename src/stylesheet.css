@@ -1,0 +1,22 @@
+p{
+    margin: 0;
+}
+.rating{
+    border:1px solid #ccc;
+    padding: 0px 15px;
+    border-radius: 20px;
+}
+.superHit{
+    background: #aaff00;
+}
+.avg{
+    background: #dba801;
+}
+
+.navLink{
+    color: red;
+    text-decoration: none;
+  }
+  .navLink.active{
+    color: blue;
+  }
