@@ -31,11 +31,11 @@ const About = () =>{
                     <p>lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit ametlorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet</p>
                     <p className="mb-3">lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet</p>
                     <p>HTML/CSS/JAVASCRIPT</p>
-                    <ProgressBar now={html} />
+                    <ProgressBar className="mb-3" now={html} />
                     <p>RESPONSIVE</p>
-                    <ProgressBar now={responsive} />
+                    <ProgressBar className="mb-3" now={responsive} />
                     <p>PHOTOSHOP</p>
-                    <ProgressBar now={photoshop} />
+                    <ProgressBar className="mb-3" now={photoshop} />
                 </Col>
             </Row>
         </Container>
