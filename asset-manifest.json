@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactTesting2024/static/css/main.6a534810.css",
-    "main.js": "/ReactTesting2024/static/js/main.ad402e40.js",
+    "main.js": "/ReactTesting2024/static/js/main.6ffc427a.js",
     "static/js/453.51a1bdc9.chunk.js": "/ReactTesting2024/static/js/453.51a1bdc9.chunk.js",
     "static/media/img-hero2.jpg": "/ReactTesting2024/static/media/img-hero2.7a396087717d6aac698a.jpg",
     "static/media/img5.jpg": "/ReactTesting2024/static/media/img5.005ef6648860b053814d.jpg",
@@ -26,11 +26,11 @@
     "static/media/team6.jpg": "/ReactTesting2024/static/media/team6.51e55dc38b7ce790b9b8.jpg",
     "index.html": "/ReactTesting2024/index.html",
     "main.6a534810.css.map": "/ReactTesting2024/static/css/main.6a534810.css.map",
-    "main.ad402e40.js.map": "/ReactTesting2024/static/js/main.ad402e40.js.map",
+    "main.6ffc427a.js.map": "/ReactTesting2024/static/js/main.6ffc427a.js.map",
     "453.51a1bdc9.chunk.js.map": "/ReactTesting2024/static/js/453.51a1bdc9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a534810.css",
-    "static/js/main.ad402e40.js"
+    "static/js/main.6ffc427a.js"
   ]
 }
